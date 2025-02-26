@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Katarilo
-- 👀 I’m interested in programing and playng games!
+- 👀 I’m interested in programing and playing games!
 - 🌱 I’m currently learning html5 and css3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
